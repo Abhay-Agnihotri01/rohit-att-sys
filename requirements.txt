@@ -1,0 +1,21 @@
+# opencv-contrib-python
+# numpy
+# pandas
+# openpyxl
+# mysql-connector-python
+# fastapi
+# uvicorn
+# gradio
+# opencv-python-headless
+# numpy
+# pandas\
+
+fastapi
+uvicorn[standard]
+opencv-python-headless
+numpy
+pillow
+python-multipart
+
+
+
